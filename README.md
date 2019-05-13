@@ -1,4 +1,4 @@
-# Storj Gateway
+# [Storj Gateway](https://github.com/jschiarizzi/storj-ipfs-gateway)
 An entrance IPFS storage with a [Storj](http://storj.io) implementation as a backend. This allows for easily viewing files stored in the Storj network directly in a web browser.
 
 # Accessing this [Live Gateway](https://live.storjgateway.com) 
