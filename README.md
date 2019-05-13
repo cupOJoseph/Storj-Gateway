@@ -4,20 +4,18 @@ An entrance IPFS storage with a [Storj](http://storj.io) implementation as a bac
 # Accessing this [Live Gateway](https://live.storjgateway.com) 
 
 ## Downloads / Views
-We have 2 buckets that have been made, and some files stored in each one. The buckets and files exist within the Storj Network. You can access them
+We have 2 buckets that we made when we deployed our gateway, and some files stored in each one. The buckets and files exist within the Storj Network. You can access them
 
-**my-bucket**
-| file     | path |
+**myBucket**
+| file | path |
 | ----------- | ----------- |
-| https://live.storjgateway.com/      | Title       |
-| Paragraph   | Text        |
+| cat.png | https://live.storjgateway.com/ipfs/myBucket/cat.png |
 <br>
 
 **other-bucket**
-| file     | path |
+| file | path |
 | ----------- | ----------- |
-| https://live.storjgateway.com/      | Title       |
-| Paragraph   | Text        |
+| cat.png | https://live.storjgateway.com/ipfs/myBucket/cat.png |
 
 ### Uploads
 You can add files to our buckets. This is just for testing and will be reset often. Please keep file sizes small.
