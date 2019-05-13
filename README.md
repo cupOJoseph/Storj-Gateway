@@ -1,7 +1,28 @@
 # Storj Gateway
 An entrance IPFS storage with a [Storj](http://storj.io) implementation as a backend. This allows for easily viewing files stored in the Storj network directly in a web browser.
 
-# [access](https://live.storjgateway.com)
+# Accessing this [Live Gateway](https://live.storjgateway.com) 
+
+## Downloads / Views
+We have 2 buckets that have been made, and some files stored in each one. The buckets and files exist within the Storj Network. You can access them
+
+**my-bucket**
+| file     | path |
+| ----------- | ----------- |
+| https://live.storjgateway.com/      | Title       |
+| Paragraph   | Text        |
+<br>
+
+**other-bucket**
+| file     | path |
+| ----------- | ----------- |
+| https://live.storjgateway.com/      | Title       |
+| Paragraph   | Text        |
+
+### Uploads
+You can add files to our buckets. This is just for testing and will be reset often. Please keep file sizes small.
+
+Send a `POST` to `TBD` with your file to upload it. Then check that it is now in Storj with `Another thing`.
 
 ## Attribution
 This experimental ipfs plugin combines code from and is heavily inspired by [RTrade's storj ipfs plugin](https://github.com/RTradeLtd/storj-ipfs-ds-plugin). It also uses code from https://github.com/ipfs/go-ds-s3 and https://github.com/storj/storj.
