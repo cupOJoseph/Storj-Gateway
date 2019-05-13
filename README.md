@@ -7,12 +7,14 @@ An entrance IPFS storage with a [Storj](http://storj.io) implementation as a bac
 We have 2 buckets that we made when we deployed our gateway, and some files stored in each one. The buckets and files exist within the Storj Network. You can access them
 
 **myBucket**
+
 | file | path |
 | ----------- | ----------- |
 | cat.png | https://live.storjgateway.com/ipfs/myBucket/cat.png |
 <br>
 
 **other-bucket**
+
 | file | path |
 | ----------- | ----------- |
 | cat.png | https://live.storjgateway.com/ipfs/myBucket/cat.png |
