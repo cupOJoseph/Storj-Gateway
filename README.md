@@ -1,7 +1,7 @@
 # [Storj Gateway](https://github.com/jschiarizzi/storj-ipfs-gateway)
 An entrance IPFS storage with a [Storj](http://storj.io) implementation as a backend. This allows for easily viewing files stored in the Storj network directly in a web browser.
 
-# Accessing this [Live Gateway](htts://live.storjgateway.com) 
+# Accessing this [Live Gateway](http://live.storjgateway.com/) 
 
 ## Downloads / Views
 We have 2 buckets that we made when we deployed our gateway, and some files stored in each one. The buckets and files exist within the Storj Network. You can access them
@@ -10,7 +10,7 @@ We have 2 buckets that we made when we deployed our gateway, and some files stor
 
 | file | path |
 | ----------- | ----------- |
-| cat.png | htts://live.storjgateway.com/ipfs/myBucket/cat.png |
+| cat.png | http://live.storjgateway.com/ipfs/myBucket/cat.png |
 
 <br>
 
@@ -18,7 +18,7 @@ We have 2 buckets that we made when we deployed our gateway, and some files stor
 
 | file | path |
 | ----------- | ----------- |
-| cat.png | htts://live.storjgateway.com/ipfs/other-bucket/cat.png |
+| cat.png | http://live.storjgateway.com/ipfs/other-bucket/cat.png |
 
 ### Uploads
 You can add files to our buckets. This is just for testing and will be reset often. Please keep file sizes small.
