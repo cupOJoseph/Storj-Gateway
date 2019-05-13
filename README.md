@@ -11,6 +11,7 @@ We have 2 buckets that we made when we deployed our gateway, and some files stor
 | file | path |
 | ----------- | ----------- |
 | cat.png | https://live.storjgateway.com/ipfs/myBucket/cat.png |
+
 <br>
 
 **other-bucket**
