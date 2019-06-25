@@ -23,7 +23,7 @@ We have 2 buckets that we made when we deployed our gateway, and some files stor
 ### Uploads
 You can add files to our buckets. This is just for testing and will be reset often. Please keep file sizes small.
 
-Send a `POST` to `TBD` with your file to upload it. Then check that it is now in Storj with `Another thing`.
+Send a `POST` to `http://live.storjgateway.com:3001/upload` with your file to upload it. Then check that it is now in Storj with `TBD`.
 
 ## Attribution
 This experimental ipfs plugin combines code from and is heavily inspired by [RTrade's storj ipfs plugin](https://github.com/RTradeLtd/storj-ipfs-ds-plugin). It also uses code from https://github.com/ipfs/go-ds-s3 and https://github.com/storj/storj.
